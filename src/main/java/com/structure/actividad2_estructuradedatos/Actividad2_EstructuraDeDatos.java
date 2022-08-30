@@ -17,4 +17,5 @@ public class Actividad2_EstructuraDeDatos {
         for(int i = 0; i < 10; i++)
             System.out.println("Posición: ["+i+"] Valor: "+arr[i]);
     }
+    //HOLA
 }
