@@ -1,7 +1,6 @@
 package com.structure.actividad2_estructuradedatos;
 import java.util.Scanner;
 
-// ANGEL ROEL LEAL ALVARADO ISC 21380638 UNIDAD SAN FERNANDO 28/8/2022
 
 public class Actividad2_EstructuraDeDatos {
    
